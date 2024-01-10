@@ -531,9 +531,11 @@ body {
                 padding-top: 25px;
         }
         .userDetails .butt button{
-            padding: 10px 65px;
+            padding: 20px 65px;
             align-items: center;
+            width: 100%;
             justify-content: center;
+            align-items: center;
         }
         .userDetails .butt span{
             display: none;
@@ -564,6 +566,7 @@ body {
             align-items: center;
             justify-content: center;
             width: 400px;
+            padding-right: 60px;
            
         }
         .section4{
